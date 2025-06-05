@@ -13,7 +13,9 @@ This repository showcases a collection of interactive Tableau dashboards built u
 
 ### 2. Tesla Stock Price Dashboard
 - Visualizes Tesla stock trends, moving averages, and volume
+- Tools: Tableau Public, CSV
 - File: `Tesla_Stock_Dashboard.twbx`
+- 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/meghashree.narasimhan/viz/Tesla_17491483909620/TeslaStockPriceAnalysisDashboard?publish=yes)
 
 ### 3. UT Mart Sales Analytics
 - Sales breakdown by product category, customer region, and time
