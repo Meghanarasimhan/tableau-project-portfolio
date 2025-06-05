@@ -8,7 +8,7 @@ This repository showcases a collection of interactive Tableau dashboards built u
 - Analyzes delivery time by area, traffic, and weather
 - Tools: Tableau Public, CSV
 - File: `Amazon_Delivery_Analytics.twbx`
-- 🔗 [View Dashboard on Tableau Public]((https://public.tableau.com/app/profile/meghashree.narasimhan/viz/AmazonDeliveryAnalytics/Dashboard1?publish=yes))
+- 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/meghashree.narasimhan/viz/AmazonDeliveryAnalytics/Dashboard1?publish=yes)
 
 
 ### 2. Tesla Stock Price Dashboard
