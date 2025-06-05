@@ -19,14 +19,16 @@ This repository showcases a collection of interactive Tableau dashboards built u
 
 ### 3. UT Mart Sales Analytics
 - Sales breakdown by product category, customer region, and time
+- Tools: Tableau Public, CSV
 - File: `UT_Mart_Sales_Analytics.twbx`
+- 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/meghashree.narasimhan/viz/UT_Mart_Sales_Analytics/Dashboard1?publish=yes)
 
 ## 📂 Datasets
 - Sourced from Kaggle and GitHub
 - Included as `.csv` files alongside dashboards
 
 ## 🚀 View Dashboards Online
-Coming soon: [Tableau Public Portfolio](https://public.tableau.com/)
+[Tableau Public Portfolio](https://public.tableau.com/app/profile/meghashree.narasimhan/vizzes)
 
 ## 🛠 Tools Used
 - Tableau Public
